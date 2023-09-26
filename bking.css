@@ -189,13 +189,11 @@ hr{
     background-color: rgb(231, 176, 176);
 }
 .cover-1 {
-    margin-bottom: 225px; /* Decrease the margin at the bottom of cover-1 */
-    /* Add other styles for cover-1 as needed */
+    margin-bottom: 225px; 
 }
 
 .cover-2 {
-    margin-top: -500px; /* Decrease the margin at the top of cover-2 */
-    /* Add other styles for cover-2 as needed */
+    margin-top: -500px; 
 }
 .last-page{
     background-color:  #cfc4ae;
